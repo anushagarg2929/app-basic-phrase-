@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">grid_layout</string>
+    <string name="do_you_10_speak_english"><![CDATA[Do you &&#10 speak English?]]></string>
+</resources>
